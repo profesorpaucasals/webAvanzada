@@ -1,3 +1,3 @@
 # webAvanzada
 ## Juan Pedro
-### Versión 1.0
+### Versión 2.0
