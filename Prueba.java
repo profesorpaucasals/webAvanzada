@@ -2,7 +2,7 @@
 /**
  * Write a description of class Prueba here.
  * 
- * @author (your name) 
+ * @author JUAN PEDRO 1.0
  * @version (a version number or a date)
  */
 public class Prueba
